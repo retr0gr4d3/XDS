@@ -9,7 +9,7 @@ Everything in this repo relies on your console having [Luma3DS](https://github.c
 - If you boot into the `Luma3DS Configuration` screen:
   - Continue to the [required homebrew](#required-homebrew) section for a sanity check.
 - If you do not have `Luma3DS`:
-  - Follow [this guide here](https://3ds.hacks.guide/get-started.html).
+  - Follow [this guide here](https://3ds.hacks.guide/get-started.html). I will be making my own guide on my site soon, which can be found [here](https://retr0.gr4d3.uk/homebrew/3DS), so keep an eye out.
 ### Required Homebrew
 It will also assume you have the basics of 3DS Homebrew installed, such as:
 - [ftpd](https://github.com/mtheall/ftpd)
